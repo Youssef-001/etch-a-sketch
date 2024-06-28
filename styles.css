@@ -16,8 +16,8 @@ flex-wrap:wrap;
 border: 5px solid red;
 margin-top:15px;
 gap:2px;
-width:960px;;
-/* height:940px; */
+width:660px;;
+  height:660px;  
 margin:0;
 padding:0;
 background-color: red;
@@ -35,22 +35,16 @@ margin-top:30px;
     background-color: white;
     margin-top:5px;
     flex:1;
-    padding-top:50%;
-    padding-bottom: 50%;
-
-    /* padding-left: 50%; */
+    /* padding-top:50%;
+    padding-bottom: 50%; */
 }
 
 .x-container{
     display:flex;
     flex-wrap:wrap;
     flex-direction: column;
-    /* height:600px; */
     flex:1;
-     /* max-width: 100%; 
-    max-height: 100%; 
-    box-sizing: border-box; 
-    overflow: hidden;  */
+
     
 }
 
